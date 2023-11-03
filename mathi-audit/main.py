@@ -8,7 +8,7 @@ import en_audit
 aos_df = pd.read_csv('data.csv')
 door_df = pd.read_csv('door.csv')
 en_df = pd.read_csv('en.csv')
-# pcr_df = pd.read_csv('pcr.csv')
+pcr_df = pd.read_csv('pcr.csv')
 
 if __name__ == '__main__':
     aos_audit.category(aos_df)
@@ -27,6 +27,6 @@ if __name__ == '__main__':
     door_audit.scroll(door_df)
     en_audit.environment(en_df)
     en_audit.request_type(en_df)
-    # pcr_audit.status(pcr_df)
-    # pcr_audit.requester(pcr_df)
+    pcr_audit.status(pcr_df)
+    pcr_audit.requester(pcr_df)
 
