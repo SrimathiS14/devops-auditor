@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the csv file
-df = pd.read_csv('pcr.csv')
+# df = pd.read_csv('pcr.csv')
 
 def status(df):
     # Count the frequency of each resource type
@@ -52,5 +52,5 @@ def requester(df):
     plt.tight_layout()  # To ensure that the labels are not cut-off
     plt.savefig('pcr-audit-images/2_requester.png', dpi=300, bbox_inches='tight')
 
-status(df)
-requester(df)
+# status(df)
+# requester(df)
