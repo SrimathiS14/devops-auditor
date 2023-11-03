@@ -1,0 +1,23 @@
+﻿,Request_id,Created by._id,Created by.Email,Created by.Name,Status,Environment,Resource Type
+1,EN-265,Us5OCIRMd6v8,priyanka@kissflow.com,Priyanka Vijay Kumar,InProgress,Production,MongoDB
+2,EN-266,Usa21tiKUEXJd,gopalakrishnan@kissflow.com,Gopalakrishnan,Completed,Development,Onboarding Access for Developer
+3,EN-267,Us7Fl4YvVlsI,roshini.r.s@kissflow.com,Roshini R S,Completed,Development,GCP - Other Component Access
+4,EN-268,Us6mCaVhYwTo,saif@kissflow.com,Syed Saifullah,Completed,Production,DevOps Process (AOS/PCR/JYT etc)
+5,EN-269,Usi_V0lAUEFWp,gokul@kissflow.com,Gokul Amudhan,InProgress,Production,GCP - Other Component Access
+6,EN-270,Usa21tiKUEXJd,gopalakrishnan@kissflow.com,Gopalakrishnan,InProgress,Development,GCP - Other Component Access
+7,EN-271,Us6mCaVhYwTo,saif@kissflow.com,Syed Saifullah,Completed,Development,Jenkins
+8,EN-272,Us7w_dAmxLBJ,dharshan@kissflow.com,Dharshan Shankar,Completed,Development,Onboarding Access for Developer
+9,EN-273,Us4AZ9F8yFYB,saranraja@kissflow.com,Saran Thiyagu,Rejected,Development,GCP - Other Component Access
+10,EN-274,UsnLp_oAdcgu,muthu.sudalai@kissflow.com,Muthuponmari Sudalai,Withdrawn,Development,Onboarding Access for Developer
+11,EN-275,UsnLp_oAdcgu,muthu.sudalai@kissflow.com,Muthuponmari Sudalai,Completed,Development,Onboarding Access for Developer
+12,EN-276,Us5uQsnPt6B5,richin@kissflow.com,Richin Sanders R,Completed,Development,Onboarding Access for Developer
+13,EN-277,Us4XYe2VaYuw,kavitha@kissflow.com,Kavitha Panneer Selvam,Completed,Infra access,GCP - Project/Folder/Org creation & Access
+14,EN-278,Us7w_dAmxLBJ,dharshan@kissflow.com,Dharshan Shankar,Completed,Production,Gsuite - Create mail group/Add member to mail group
+15,EN-279,Us1rYbO7A84x,arjun.ganesan@kissflow.com,Arjun Ganesan,Completed,Development,MongoDB
+16,EN-280,Us5Le0uH_RtY,rakesh.vp@kissflow.com,Rakesh V P,Completed,Development,Jenkins
+17,EN-281,Us7behRGqzNN,susmitha@kissflow.com,Susmitha SV,InProgress,Development,GCP - Other Component Access
+18,EN-282,Usi_V0lAUEFWp,gokul@kissflow.com,Gokul Amudhan,InProgress,Development,GCP - Other Component Access
+19,EN-283,Us5OCHu0w0qm,aravinthan.b@kissflow.com,Aravinthan Balasubramanian,Completed,Development,Onboarding Access for Developer
+20,EN-284,Us7V6Gj_u61x,shanthoshnarayanan@kissflow.com,Shanthoshnarayanan NPN,InProgress,Development,DevOps Process (AOS/PCR/JYT etc)
+21,EN-285,Usi_V0lAUEFWp,gokul@kissflow.com,Gokul Amudhan,InProgress,Production,Onboarding Access for Developer
+22,EN-286,Us4XYe2VaYuw,kavitha@kissflow.com,Kavitha Panneer Selvam,InProgress,Infra access,GCP - Project/Folder/Org creation & Access
