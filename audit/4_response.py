@@ -32,4 +32,4 @@ for bar in bars:
 
 plt.ylabel('Counts')
 plt.title('Time spent by groups')
-plt.savefig('/Users/srimathis/Downloads/audit-automation/dummy/page-response.png', dpi=300, bbox_inches='tight')
+plt.savefig('aos/4_response.png', dpi=300, bbox_inches='tight')
